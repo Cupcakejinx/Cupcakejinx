@@ -1,6 +1,6 @@
 Hi there! My name is Cupcakejinx, and here are a few things about me:
 
-🔒 I am a Cybersecurity Enthusiast - SOC Security Analyst 💻
+🔒 I am a Cybersecurity Enthusiast - SOC Security Analyst 💻 
 
 🔍 I am constantly analyzing, detecting, and responding to security threats in real-time.
 
